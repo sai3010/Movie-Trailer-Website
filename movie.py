@@ -1,6 +1,6 @@
 """
 this module contains the movie class that will be used in the
-entertainment_center.py file
+entertain.py file
 """
 class movie():                                                              #class movie
     def __init__(self,titlemovie,story,poster,trailer):                     #init is a constructor
